@@ -1,0 +1,46 @@
+1 ) What is the DOM?
+
+Dom meaning Document Object Model, is an interface for the whole
+html. you can target and manipulating different elements inside the html
+like the body, head, title, h1 and so forward.
+
+2 )List three methods to manipulate the DOM.
+
+getElementById this one can target any elements inside the DOM
+
+creatElement will create and element and let you place it anywhere
+you want inside the Dom
+
+getAttribute will let you access values of any attribute of any elmenets
+
+3 )What is an asynchronous call?
+
+an asynchronous call means that you can run different functions at the same time
+instead of waiting for one function too finish over another.
+
+
+4 )Briefly explain what the sources tab in Chromes Developers Tools does.
+
+The source tab let us see the different files we have for our website
+like , a index.html , script.js and style.css.
+
+5) What is a JavaScript promise?
+
+Quickly explained, a Javascript promise can either be Resolved or rejected.
+It's core use is handling Async operations and blocking code, which allows the Developer
+To control the programflow easier. Using promise can give you synchronized code.
+
+6 )What is an API?
+
+API means Application programming interface is a way too process and send information between
+different servers.
+
+7 )What is a JavaScript Event?
+
+an JavaScript event is when you do certain things too give a html element an use, like
+onclick, onmousehover, onload.
+
+8 )What is event bubbling?
+
+event bubbling means what order the event are called when different elements are nested inside another
+element, when both have the same event call.
